@@ -6,7 +6,6 @@ image: "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 categories:
     - golang
     - 源码学习
-autonumbering: false
 ---
 
 # 从源码探究golang中context的奥秘
