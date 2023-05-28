@@ -2,7 +2,7 @@
 title: "Golang热加载库使用技法"
 date: 2023-05-18T09:48:20+08:00
 draft: false
-image: "luca-bravo-alS7ewQ41M8-unsplash.jpg"
+image: "img/luca-bravo-alS7ewQ41M8-unsplash.jpg"
 categories: 
   - golang
   - 编程技巧

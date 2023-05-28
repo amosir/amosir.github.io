@@ -1,8 +1,8 @@
 ---
 title: "从源码探究golang中context的奥秘"
-date: 2023-05-17T10:24:47+08:00
+date: 2022-11-29T12:36:47+08:00
 draft: false
-image: "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
+image: "img/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 categories:
     - golang
     - 源码学习
@@ -18,7 +18,7 @@ categories:
 
 要对一个包进行源码分析，必不可少的要知道它都有哪些东西，比如哪些接口、结构、函数等，下面是context包的类图:
 
-![image-20221127142433296](image-20221127142433296.png)
+![](img/image-20221127142433296.png)
 
 除了上述图中的接口和结构体之外，从源码中还能看到几个WithXXX形式的函数，下面就从源码角度一步步分析context的原理。
 
