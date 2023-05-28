@@ -1,7 +1,7 @@
 ---
 title: "BTC11 比特币引发的思考"
 date: 2023-05-28T13:48:49+08:00
-draft: false
+draft: true
 image: ""
 categories: 
 tag:

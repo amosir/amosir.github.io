@@ -1,7 +1,7 @@
 ---
 title: "ETH16 GHOST协议"
 date: 2023-05-28T13:50:57+08:00
-draft: false
+draft: true
 image: ""
 categories: 
 tag:

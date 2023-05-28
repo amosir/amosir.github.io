@@ -1,7 +1,7 @@
 ---
 title: "BTC04 比特币系统实现"
 date: 2020-06-10T13:46:12+08:00
-draft: false
+draft: true
 image: ""
 categories: 
 tag:
